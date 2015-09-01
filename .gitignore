@@ -1,0 +1,6 @@
+node_modules
+public
+resources
+
+#Other Files
+.DS_Store
